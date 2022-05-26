@@ -1,0 +1,2 @@
+# Microbe-classification-network
+I used a kaggle dataset which included information about various types of microgranisms, it included 24 predictors and a class variable which had 10 different classes in it. I chose to use a neural network because in this particular case i felt that explainability was not important so a neural network would do nicely. I also wanted to gain some experience implementing multiclass classification models using the softmax activation function.
